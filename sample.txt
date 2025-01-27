@@ -1,5 +1,8 @@
+
 This is a very simple file for git usage.
 
 This is from dev1
 
 this is new created!
+
+this line is added into bare repository`
